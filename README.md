@@ -19,3 +19,13 @@ Upload of Excel Homework
 1. We could compare average backer contribution to Kickstarter state. Determine whether larger backer contributions lead to more succesful campaigns.
 2. We could use staff pick and spotlight fields to see whether those have a higher successs rate compared to non-staff picks and spotlight fields
 3. We could compare YoY or QoQ for each category to see whether there is trendng on success for certain categories
+
+## Bonus Questions
+
+### Use your data to determine whether the mean or the median summarizes the data more meaningfully.
+
+1. My inclination is to use the median considering the standard deviation is very high on both accounts. Having a high standard deviation indicates the data is spread out and may have outliers impacting the mean. Median has a better handling of outliers.
+
+### Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
+
+1. There appears to be more variability with successful campaigns. Successful campaigns are reaching their goals, and the goals vary on the goal amounts. Since unsuccessful campaigns don't necessarity hit a goal, they can taper off at any level, lower than goals, and I'm assuming based on the mean/median of hte backers, a lot seem to die on the vine around a similar-ish area.
